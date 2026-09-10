@@ -115,7 +115,7 @@ A full-stack application combining a public restaurant experience with a staff w
 
 <h3>Verde Escape</h3>
 
-<p align="center"><em>Visual preview will be added in the next portfolio pass.</em></p>
+<img src="https://raw.githubusercontent.com/tracerxbrhd/prfio-verde-escape/master/docs/screenshots/desktop.png" alt="Verde Escape" width="100%">
 
 <strong>Hospitality frontend and stay planner</strong>
 
