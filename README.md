@@ -4,9 +4,9 @@ Software architecture, game systems and product experiments.
 
 ---
 
-## 01 / GAME SYSTEMS
+## 🎮 01 / GAME SYSTEMS
 
-### UNDERWORLD STUDIO
+### 🧩 UNDERWORLD STUDIO
 
 A modular Minecraft ecosystem built around a shared technical foundation.
 
@@ -28,9 +28,9 @@ flowchart TB
 
 ---
 
-## 02 / WEB & PRODUCT SYSTEMS
+## 🌐 02 / WEB & PRODUCT SYSTEMS
 
-### PRFIO
+### 💻 PRFIO
 
 Product-focused web projects spanning full-stack systems, data visualization and interaction design.
 
@@ -73,9 +73,9 @@ Editorial studio frontend<br>
 
 ---
 
-## 03 / INDEPENDENT SYSTEMS
+## 🛠️ 03 / INDEPENDENT SYSTEMS
 
-### [Tickets! Please](https://github.com/tracerxbrhd/tickets-please-discord)
+### 🎟️ [Tickets! Please](https://github.com/tracerxbrhd/tickets-please-discord)
 
 Discord support and ticket management system with persistent server configuration, role-based workflows and PostgreSQL-backed state. Built, deployed and operated as a live bot.
 
